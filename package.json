@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "Create a qr-code component using nextjs and tailwind for a frontendenthor challenges",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
